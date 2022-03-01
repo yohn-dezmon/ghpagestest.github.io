@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Home Page of this Repo
 
 You can use the [editor on GitHub](https://github.com/yohn-dezmon/ghpagestest.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
